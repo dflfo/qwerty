@@ -228,5 +228,65 @@
         "drm_scheme": "clearkey"
      } 
    ] 
- } 
-]
+ },
+{ "name": "MUSICA", 
+          "mode": false, 
+          "lista": 
+          [ 
+            { "name": "QUIERO TV", 
+          "ico": "https://panelssh.com.ar/Img/QUIERO_TV.png", 
+          "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_2A/Quiero_HD.mpd", 
+          "drm_scheme": "ClearKey", 
+          "drm_license_url": "https://panelssh.com.ar/Keys/quierotv.json" 
+          }, 
+          { "name": "HTV", 
+          "ico": "https://panelssh.com.ar/Img/H_TV.png",
+          "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd", 
+          "drm_scheme": "ClearKey", 
+          "drm_license_url": "https://panelssh.com.ar/Keys/htv.json" 
+          }, 
+          { "name": "MTV", 
+          "ico": "https://panelssh.com.ar/Img/MTV.png", 
+          "uri": "https://chromecast.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_HD.mpd", 
+          "drm_scheme": "ClearKey", 
+          "drm_license_url": "https://panelssh.com.ar/Keys/mtv.json" 
+          }, 
+          { "name": "MTV HITS", 
+          "ico": "https://panelssh.com.ar/Img/MTV_HITS.png", 
+          "uri": "https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd", 
+          "drm_scheme": "ClearKey", 
+          "drm_license_url": "https://panelssh.com.ar/Keys/mtvhits.json"
+          }, 
+          { "name": "MTV 00", 
+          "ico": "https://panelssh.com.ar/Img/mtv00.png", 
+          "uri": "https://chromecast.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd", 
+          "drm_scheme": "ClearKey", 
+          "drm_license_url": "https://panelssh.com.ar/Keys/mtv00.json" 
+          }, 
+          { "name": "VORTERIX", 
+          "ico": "https://panelssh.com.ar/Img/vorterix.png", 
+          "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc_2A/Vorterix.mpd", 
+          "drm_scheme": "ClearKey", 
+          "drm_license_url": "https://panelssh.com.ar/Keys/vorterix.json" 
+          }, 
+          { "name": "CM", 
+          "ico": "https://panelssh.com.ar/Img/CM_TV.png", 
+          "uri": "https://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd", 
+          "drm_scheme": "ClearKey", 
+          "drm_license_url": "https://panelssh.com.ar/Keys/cm.json" 
+          }, 
+          { "name": "ALLEGRO", 
+          "ico": "https://static.flow.com.ar/images/7277/CH_LOGO/350/500/0/0/75476816073439.png", 
+          "uri": "https://chromecast.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_2A/AllegroHD.mpd", 
+          "drm_scheme": "clearkey", 
+          "drm_license_url": "https://panelssh.com.ar/Keys/allegrohd.json" 
+          }, 
+          { "name": "MUCH MUSIC", 
+          "ico": "https://panelssh.com.ar/Img/MUCH_MUSIC.png", 
+          "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc_2A/Much_Music.mpd", 
+          "drm_scheme": "ClearKey", 
+          "drm_license_url": "https://panelssh.com.ar/Keys/muchmusic.json" 
+         } 
+           ] 
+         } 
+      ]
